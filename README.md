@@ -1,7 +1,7 @@
 # Miscellaneous-Projects
 This consists of some basic project related to the python and machine learning. Some of these, I prepared during my training at Bolt IoT in "Python programming".
 
-# Title: Sentiment Analysis with Python: Detecting Positive and Negative Sentences
+# Sentiment Analysis with Python: Detecting Positive and Negative Sentences
 
 ## Introduction:
 Sentiment analysis, also known as opinion mining, is a popular application of machine learning and natural language processing (NLP). It involves analyzing textual data to determine the sentiment or emotional tone of a given piece of text. In this article, we will explore a Python-based machine learning project that focuses on detecting positive and negative sentences using sentiment analysis techniques.
